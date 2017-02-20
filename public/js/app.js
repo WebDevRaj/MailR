@@ -1,0 +1,1 @@
+angular.module("mailApp", ["ngRoute", "appRoutes", "MainCtrl", "sentCtrl", "sentService", "ngResource"]);

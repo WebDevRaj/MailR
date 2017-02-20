@@ -1,0 +1,25 @@
+{
+  "name": "MailR",
+  "version": "1.0.0",
+  "description": "email server using MEAN stack",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "MailR"
+  },
+  "author": "Rajesh Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "bunyan": "^1.8.5",
+    "connect-flash": "^0.1.1",
+    "express": "^4.14.1",
+    "method-override": "^2.3.7",
+    "mongoose": "^4.8.3",
+    "nodemailer": "^3.1.3",
+    "xoauth2": "^1.2.0"
+  }
+}
