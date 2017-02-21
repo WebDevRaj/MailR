@@ -5,6 +5,10 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
+div.ui.main {
+      background-color: rgba(245,245,245, 0.1);
+}
+
 h1 {
   font-size: 30px;
   color: #fff;
